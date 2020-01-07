@@ -6,7 +6,7 @@ public class Area {
         Scanner input = new Scanner(System.in);
         System.out.println("Please, enter a radius:");
         String radiusInput = input.nextLine();
-        while (Validation.validateRadius(radiusInput) == false) {
+        while (!Validation.validateRadius(radiusInput)) {
             System.out.println(radiusInput + " is not a valid radius.");
             System.out.println("Please, enter a valid radius:");
             radiusInput = input.nextLine();

@@ -2,16 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65245e8-4490-4b42-bdec-2b94b2f576d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercises/Alice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/AliceExtended.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/CalcArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MilesPerGallonCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/META-INF/java-web-dev-exercises.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/Alice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/Alice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/AliceExtended.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/AliceExtended.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/CalcArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/CalcArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/MilesPerGallonCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/MilesPerGallonCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/HelloMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/HelloMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/TempConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/TempConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/ArrayGradebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/ArrayGradebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/ArrayListGradebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/ArrayListGradebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/HashMapGradebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/HashMapGradebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn3classes1/SchoolPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn3classes1/SchoolPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn3classes1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn3classes1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/main/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/main/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/test/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/test/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn6inheritance/HouseCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn6inheritance/HouseCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Cone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Cone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Flavor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Flavor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Ingredient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Ingredient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/AliceExtended.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/AliceExtended.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Validation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-web-dev-exercises_1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,8 +62,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.AliceExtended">
+  <component name="RunManager" selected="Application.Area">
     <configuration name="Alice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Alice" />
       <module name="java-web-dev-exercises" />
@@ -59,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalcArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.CalcArea" />
+    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.java.studios.areaofacircle.Area" />
       <module name="java-web-dev-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="org.launchcode.java.studios.areaofacircle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.HelloWorld" />
+    <configuration name="CalcArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.CalcArea" />
       <module name="java-web-dev-exercises" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Area" />
         <item itemvalue="Application.AliceExtended" />
-        <item itemvalue="Application.Alice" />
         <item itemvalue="Application.MilesPerGallonCalc" />
+        <item itemvalue="Application.Alice" />
         <item itemvalue="Application.CalcArea" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -134,26 +168,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="250" y="49" key="#Project_Structure" timestamp="1578354505054">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="250" y="49" key="#Project_Structure/0.23.1280.728@0.23.1280.728" timestamp="1578354505054" />
     <state x="-1131" y="277" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578075515832">
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
     <state x="-1131" y="277" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1920.4.1920.1040/0.0.1920.1040@-1920.4.1920.1040" timestamp="1578075515832" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1578077470311">
-      <screen x="-1920" y="4" width="1920" height="1040" />
+    <state width="878" height="166" key="GridCell.Tab.0.bottom" timestamp="1578365759011">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state width="1340" height="266" key="GridCell.Tab.0.bottom/-1920.4.1920.1040/0.0.1920.1040@-1920.4.1920.1040" timestamp="1578077470311" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1578077470310">
-      <screen x="-1920" y="4" width="1920" height="1040" />
+    <state width="878" height="166" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1578365759011" />
+    <state width="878" height="166" key="GridCell.Tab.0.center" timestamp="1578365759009">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state width="1340" height="266" key="GridCell.Tab.0.center/-1920.4.1920.1040/0.0.1920.1040@-1920.4.1920.1040" timestamp="1578077470310" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1578077470310">
-      <screen x="-1920" y="4" width="1920" height="1040" />
+    <state width="878" height="166" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1578365759009" />
+    <state width="878" height="166" key="GridCell.Tab.0.left" timestamp="1578365759009">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state width="1340" height="266" key="GridCell.Tab.0.left/-1920.4.1920.1040/0.0.1920.1040@-1920.4.1920.1040" timestamp="1578077470310" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1578077470311">
-      <screen x="-1920" y="4" width="1920" height="1040" />
+    <state width="878" height="166" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1578365759009" />
+    <state width="878" height="166" key="GridCell.Tab.0.right" timestamp="1578365759010">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state width="1340" height="266" key="GridCell.Tab.0.right/-1920.4.1920.1040/0.0.1920.1040@-1920.4.1920.1040" timestamp="1578077470311" />
+    <state width="878" height="166" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1578365759010" />
     <state x="-1166" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578074627505">
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
@@ -162,5 +204,9 @@
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
     <state x="-1052" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.4.1920.1040/0.0.1920.1040@-1920.4.1920.1040" timestamp="1578076059761" />
+    <state x="486" y="23" width="667" height="728" key="find.popup" timestamp="1578364271390">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="486" y="23" width="667" height="728" key="find.popup/0.23.1280.728@0.23.1280.728" timestamp="1578364271390" />
   </component>
 </project>
