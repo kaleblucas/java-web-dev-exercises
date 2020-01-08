@@ -14,10 +14,10 @@ public class RandomGenerator {
         int randomAlphabetIndex = (int)randomAlphabetIndexDouble;
         return alphabet[randomAlphabetIndex];
     }
-    public static String randomString(){
+    public static String randomString(int maxLength){
         ArrayList<String> randomStringArray = new ArrayList<>();
         String randomString = "";
-        for (int i=0; i < generateInt(10); i++){
+        for (int i=0; i < generateInt(maxLength); i++){
             randomStringArray.add(randomLetter());
         }
         for (String s : randomStringArray){
